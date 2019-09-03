@@ -2,6 +2,7 @@
 Datapack with lists to overwrite which blocks can be pushed, pulled and broken by pistons. Also adds "weak" stickyness.
 # How to use?
 - Download the datapack
+- Use Quickcarpet (Fabric Mod), enable the carpetrule
 - Drop the zip file in the datapacks folder of your world
 
 # Change which blocks can be pushed
